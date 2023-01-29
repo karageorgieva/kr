@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using static System.Console;
+Clear();
+
+string[] array = EnteredArray();
+
+
+
+string[] EnteredArray() {
+    Write("Введите строки через пробел: ");
+    return ReadLine().Split(" ");
+}
