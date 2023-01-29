@@ -9,3 +9,8 @@
 3. Добавляем подходящие строки в новый массив
 4. Возвращаем новый заполненый массив как результат
 ## Диаграмма
+![diagram](https://raw.githubusercontent.com/karageorgieva/kr/main/diagram.png) 
+
+## Решение
+
+Чтобы запустить программу зайдите в папку **FINSLVCHECK** и откройте файл **program.cs** 
